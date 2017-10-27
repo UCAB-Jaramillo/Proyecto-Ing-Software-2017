@@ -1,2 +1,3 @@
 # Proyecto-Ing-Software-2017
-Este proyecto es realizado por: Geyerson Jaramillo/Gustavo Peñalver.
+Modulo #1 "Planificaion y documentacion"
+Este proyecto esta siendo realizado por: Geyerson Jaramillo/Gustavo Peñalver.
